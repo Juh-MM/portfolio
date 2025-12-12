@@ -1,10 +1,11 @@
 :root {
     --white: #FFFFFF;
     --bc-color: #1B1D1A;
-    --bc-color2: #2E372E;
+    --bc-color2: #2a3326;
     --text: #8AAD87;
     --hover: #bcf3b8;
 }
+
 
 body {
     font-family: 'roboto mono', monospace;
